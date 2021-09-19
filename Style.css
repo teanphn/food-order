@@ -1,4 +1,4 @@
-
+/* chung */
 .container{
     width: 80%;
     margin: 0 auto;
@@ -38,15 +38,9 @@ a{
 .btn{
     padding: 1%;
     border: none;
+    
 }
-.btn-primary{
-    background-color: #ff6b81;
-    color: white;
-    cursor: pointer;
-}
-.btn-primary:hover{
-    color: white;
-    background-color: #ff4757;
+
 }
 h2{
     color: #2f3542;
@@ -147,7 +141,6 @@ fieldset{
     padding: 1%;
     margin-bottom: 3%;
     border: none;
-    border-radius: 5px;
     font-size: 1rem;
 }
 .order-label{
