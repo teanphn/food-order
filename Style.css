@@ -29,6 +29,12 @@
     float: none;
 }
 
+a{
+    color:tomato;
+    text-decoration: none;
+}
+
+
 .btn{
     padding: 1%;
     border: none;
@@ -51,12 +57,7 @@ h3{
     bottom: 50px;
     left: 40%;
 }
-fieldset{
-    border: 1px solid white;
-    margin: 5%;
-    padding: 3%;
-    border-radius: 5px;
-}
+
 
 
 .logo{
