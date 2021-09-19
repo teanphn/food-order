@@ -38,8 +38,6 @@ a{
 .btn{
     padding: 1%;
     border: none;
-    font-size: 1rem;
-    border-radius: 5px;
 }
 .btn-primary{
     background-color: #ff6b81;
@@ -90,24 +88,6 @@ fieldset{
     padding: 1%;
     font-weight: bold;
 }
-
-
-
-.food-search{
-    background-color:bisque ;
-    background-size: cover;
-    background-position: center;
-    padding: 7% 0;
-}
-
-.food-search input[type="search"]{
-    width: 50%;
-    padding: 1%;
-    font-size: 1rem;
-    border: none;
-    border-radius: 5px;
-}
-
 
 .categories{
     padding: 4% 0;
